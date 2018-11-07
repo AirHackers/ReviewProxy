@@ -1,13 +1,13 @@
 # Project Name
 
-> Project description
+> Wander-Lodge home rental website
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/AirHackers/SummaryModule
+  - https://github.com/AirHackers/CheckoutCalendarService
+  - https://github.com/AirHackers/ReviewService
+  - https://github.com/AirHackers/photos-view-victor
 
 ## Table of Contents
 
@@ -21,10 +21,7 @@
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
+run npm install in each of the directories
 
 ## Development
 
@@ -32,8 +29,5 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 From within the root directory:
 
-```sh
-npm install -g webpack
-npm install
-```
+npm install in root and 4 project directories.
 
